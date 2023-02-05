@@ -1,0 +1,13 @@
+name: MealPlanner
+title: MealPlanner
+username:
+account: pljga
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4319010
+bundleId: 4755829
+url: https://pljga.shinyapps.io/MealPlanner/
+when: 1624625262.60832
+lastSyncTime: 1624625262.60832
+asMultiple: FALSE
+asStatic: FALSE
